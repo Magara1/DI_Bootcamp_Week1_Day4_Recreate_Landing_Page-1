@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+header{
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.navbar-brand{
+    color: white;
+    font-size: 20px;
+    margin-left: 100px;
+    font-weight: bold;
+}
+.navbar-collapse ul li a{
+    font-size: 20px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+}
+
+.lead{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+.jumbotron{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+hr{
+    margin-top: 200px;
+}
